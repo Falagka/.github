@@ -9,7 +9,7 @@
 ![redis-logo-48](https://github.com/Falagka/.github/assets/22774077/d5e69b7e-3aec-4746-9c31-9ec2bfa0e9d9)
 ![python-48](https://github.com/Falagka/.github/assets/22774077/8a5a7de8-b34e-4b68-966a-b9402bcc7be9)
 ![next-js](https://github.com/Falagka/.github/assets/22774077/d5c1ff96-9c32-4570-b86c-fa94c9d81018)
-![mysql-50](https://github.com/Falagka/.github/assets/22774077/af2d043c-f95b-4552-86e3-f0379150c7c1)
+![icons8-mysql-100](https://github.com/Falagka/.github/assets/22774077/3924fece-9033-4660-862b-3ec5d5c7c28b)
 ![mongodb-48](https://github.com/Falagka/.github/assets/22774077/a9dc5cf2-e259-47df-b0ea-b641eaa541b1)
 ![graphql-48](https://github.com/Falagka/.github/assets/22774077/4ff5245d-ae3f-4105-92d5-967dc8bff196)
 
