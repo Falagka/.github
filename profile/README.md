@@ -1,11 +1,8 @@
 
-![d3 (1)](https://github.com/Falagka/.github/assets/22774077/1688fd75-d3c7-4d69-a37f-a4a1f6a5d105)
+![d3 (1)](https://github.com/Falagka/.github/assets/22774077/1688fd75-d3c7-4d69-a37f-a4a1f6a5d105) ![celery](https://github.com/Falagka/.github/assets/22774077/bc1851d4-9755-4fc7-9ede-60436f611b79)
+![ariadne (1)](https://github.com/Falagka/.github/assets/22774077/cec6f8e4-8f9c-444f-956b-3b33fb0d4974) ![typescript-48](https://github.com/Falagka/.github/assets/22774077/961957d3-dd99-4bf0-8657-22316151609a)
 
-![celery](https://github.com/Falagka/.github/assets/22774077/bc1851d4-9755-4fc7-9ede-60436f611b79)
 
-![ariadne (1)](https://github.com/Falagka/.github/assets/22774077/cec6f8e4-8f9c-444f-956b-3b33fb0d4974)
-
-![typescript-48](https://github.com/Falagka/.github/assets/22774077/961957d3-dd99-4bf0-8657-22316151609a)
 
 ![tensorflow (1)](https://github.com/Falagka/.github/assets/22774077/cdb572d3-14d3-4996-9b21-7f3dcd2df9b1)
 
