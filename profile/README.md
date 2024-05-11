@@ -5,16 +5,16 @@
   <img src="https://github.com/Falagka/.github/assets/22774077/9b20b836-f768-4001-8c77-4209109e98c6" alt="Python" width="80" height="80"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Falagka/.github/assets/22774077/3ba9e4ad-3766-4dc1-b7a2-d07e0a962d6f" alt="Next.js" width="100" height="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/e6f5d065-c547-45c7-a4fb-af5637d600fb" alt="MySQL" width="100" height="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/bde02e21-59fd-4044-aba0-8f79454620ba" alt="Flask" width="100" height="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/56c8826c-1bb2-48d9-a9be-e823a90354e7" alt="MongoDB" width="100" height="100"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/3ba9e4ad-3766-4dc1-b7a2-d07e0a962d6f" alt="Next.js" width="80" height="80"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/e6f5d065-c547-45c7-a4fb-af5637d600fb" alt="MySQL" width="80" height="80"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/bde02e21-59fd-4044-aba0-8f79454620ba" alt="Flask" width="80" height="80"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/56c8826c-1bb2-48d9-a9be-e823a90354e7" alt="MongoDB" width="80" height="80"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Falagka/.github/assets/22774077/1c12f316-196e-479b-9c26-694b4034c0d6" alt="GraphQL" width="100" height="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/86bca36a-a4bc-4589-91f2-c3d21414da50" alt="D3.js" width="100" height="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/abe3dd81-b9f9-498b-a9c8-ba16806de8c9" alt="Celery" width="100" height="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/6d41a65b-bc5a-48d0-a3ae-32b49174244b" alt="Ariadne" width="120" height="100"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/1c12f316-196e-479b-9c26-694b4034c0d6" alt="GraphQL" width="80" height="80"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/86bca36a-a4bc-4589-91f2-c3d21414da50" alt="D3.js" width="80" height="80"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/abe3dd81-b9f9-498b-a9c8-ba16806de8c9" alt="Celery" width="80" height="80"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/6d41a65b-bc5a-48d0-a3ae-32b49174244b" alt="Ariadne" width="120" height="80"/>
 </p>
 
 
