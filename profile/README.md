@@ -14,7 +14,7 @@
   <img src="https://github.com/Falagka/.github/assets/22774077/1c12f316-196e-479b-9c26-694b4034c0d6" alt="GraphQL" width="100" height="100"/>
   <img src="https://github.com/Falagka/.github/assets/22774077/86bca36a-a4bc-4589-91f2-c3d21414da50" alt="D3.js" width="100" height="100"/>
   <img src="https://github.com/Falagka/.github/assets/22774077/abe3dd81-b9f9-498b-a9c8-ba16806de8c9" alt="Celery" width="100" height="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/6d41a65b-bc5a-48d0-a3ae-32b49174244b" alt="Ariadne" width="100" height="100"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/6d41a65b-bc5a-48d0-a3ae-32b49174244b" alt="Ariadne" width="120" height="100"/>
 </p>
 
 
