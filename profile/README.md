@@ -1,6 +1,6 @@
 
 ![d3 (1)](https://github.com/Falagka/.github/assets/22774077/1688fd75-d3c7-4d69-a37f-a4a1f6a5d105) ![celery](https://github.com/Falagka/.github/assets/22774077/bc1851d4-9755-4fc7-9ede-60436f611b79)
-![typescript-48](https://github.com/Falagka/.github/assets/22774077/961957d3-dd99-4bf0-8657-22316151609a) ![ariadne-logo-vertical](https://github.com/Falagka/.github/assets/22774077/3b8c3542-30df-404f-af20-31a486218e42)
+![typescript-48](https://github.com/Falagka/.github/assets/22774077/961957d3-dd99-4bf0-8657-22316151609a) ![ariadne-logo-vertical (1)](https://github.com/Falagka/.github/assets/22774077/5c765fbb-848e-4a5e-8502-0faf9b9a55ff)
 ![tensorflow (1)](https://github.com/Falagka/.github/assets/22774077/cdb572d3-14d3-4996-9b21-7f3dcd2df9b1) ![scikit_learn (1)](https://github.com/Falagka/.github/assets/22774077/ae8f47c4-0ac8-4a5d-b7ea-f06920129700)
 ![icons8-flask-64 (1)](https://github.com/Falagka/.github/assets/22774077/de18f09c-78f5-4d8f-9013-6f01a048e0db) ![redis-logo-48](https://github.com/Falagka/.github/assets/22774077/d5e69b7e-3aec-4746-9c31-9ec2bfa0e9d9)
 ![python-48](https://github.com/Falagka/.github/assets/22774077/8a5a7de8-b34e-4b68-966a-b9402bcc7be9) ![next-js](https://github.com/Falagka/.github/assets/22774077/d5c1ff96-9c32-4570-b86c-fa94c9d81018)
