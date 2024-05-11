@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Falagka/.github/assets/22774077/209c1c9d-7921-45fc-bd1f-9767e676e9c6" alt="TensorFlow" width="100" height="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/5e19ee27-7b3f-4db8-b013-422f5249a70f" alt="Scikit Learn" width="100" height="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/98db49cb-c238-4295-90dd-b45028ec4b4e" alt="Redis" width="100" height="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/9b20b836-f768-4001-8c77-4209109e98c6" alt="Python" width="100" height="100"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/209c1c9d-7921-45fc-bd1f-9767e676e9c6" alt="TensorFlow" width="80" height="80"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/5e19ee27-7b3f-4db8-b013-422f5249a70f" alt="Scikit Learn" width="80" height="80"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/98db49cb-c238-4295-90dd-b45028ec4b4e" alt="Redis" width="80" height="80"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/9b20b836-f768-4001-8c77-4209109e98c6" alt="Python" width="80" height="80"/>
 </p>
 <p align="center">
   <img src="https://github.com/Falagka/.github/assets/22774077/3ba9e4ad-3766-4dc1-b7a2-d07e0a962d6f" alt="Next.js" width="100" height="100"/>
