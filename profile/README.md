@@ -2,7 +2,7 @@
   <img src="https://github.com/Falagka/.github/assets/22774077/8a5a7de8-b34e-4b68-966a-b9402bcc7be9" alt="Python" width="100"/>
   <img src="https://github.com/Falagka/.github/assets/22774077/de18f09c-78f5-4d8f-9013-6f01a048e0db" alt="Flask" width="100"/>
   <img src="https://github.com/Falagka/.github/assets/22774077/bc1851d4-9755-4fc7-9ede-60436f611b79" alt="Celery" width="100"/>
-  <img src="https://github.com/Falagka/.github/assets/22774077/5c765fbb-848e-4a5e-8502-0faf9b9a55ff" alt="Ariadne" width="100"/>
+  <img src="https://github.com/Falagka/.github/assets/22774077/b77ba0a4-5668-4f70-9cc4-94028b41641d" alt="Ariadne" width="100"/>
     <img src="https://github.com/Falagka/.github/assets/22774077/86487758-14f2-499a-a049-ee31600b0fb5" alt="Next.js" width="100"/>
   <img src="https://github.com/Falagka/.github/assets/22774077/1688fd75-d3c7-4d69-a37f-a4a1f6a5d105" alt="D3" width="100"/>
   <img src="https://github.com/Falagka/.github/assets/22774077/4ff5245d-ae3f-4105-92d5-967dc8bff196" alt="GraphQL" width="100"/>
