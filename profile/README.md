@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-   <img src="https://github.com/Falagka/.github/assets/22774077/3855d2df-e67b-42c0-a357-92d2e68dbbc6" alt="Next.js" width="80" height="80"/>
+   <img src="https://github.com/Falagka/.github/assets/22774077/3855d2df-e67b-42c0-a357-92d2e68dbbc6" alt="Next.js" width="100" height="80"/>
    <img src="https://github.com/Falagka/.github/assets/22774077/1c12f316-196e-479b-9c26-694b4034c0d6" alt="GraphQL" width="80" height="80"/>
    <img src="https://github.com/Falagka/.github/assets/22774077/86bca36a-a4bc-4589-91f2-c3d21414da50" alt="D3.js" width="80" height="80"/>
    <img src="https://github.com/Falagka/.github/assets/22774077/e6f5d065-c547-45c7-a4fb-af5637d600fb" alt="MySQL" width="80" height="80"/>
