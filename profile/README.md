@@ -23,6 +23,6 @@ The **Falagka** project is designed to help organizations understand, analyze, a
 
 
 <p align="center">
-  !(https://raw.githubusercontent.com/Falagka/.github/main/assets/22774077/e36f28b2-ef80-4a4c-a5a3-ff15dcc82b96)
+  <img src="https://raw.githubusercontent.com/Falagka/.github/main/assets/22774077/e36f28b2-ef80-4a4c-a5a3-ff15dcc82b96" width="480" height="270" alt="Description of GIF">
 </p>
 
