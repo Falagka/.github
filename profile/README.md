@@ -15,7 +15,12 @@
    <img src="https://github.com/Falagka/.github/assets/22774077/56c8826c-1bb2-48d9-a9be-e823a90354e7" alt="MongoDB" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Falagka/.github/assets/22774077/98db49cb-c238-4295-90dd-b45028ec4b4e" alt="Redis" width="60" height="60"/> &nbsp;&nbsp;&nbsp;
     <img src="https://github.com/Falagka/.github/assets/22774077/8658f4be-0717-4b39-b8af-0364e252cbc9" alt="sqlaichemy" width="80" height="60"/> &nbsp;&nbsp;&nbsp;
-</p>
+</p
+
+   <div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,graphql,typescript,html,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,flask,tensorflow,scikitlearn,mysql,mongodb,redis" /><br>
+</div>
 
 The **Falagka** project is specifically engineered to support space industry organizations in comprehending, analyzing, and safeguarding against sophisticated cyber threats that are unique to their sector. By learning directly from hacker attacks, our platform integrates data from a wide array of space industry-specific sources, identifies emerging patterns, and visualizes insights to offer a detailed perspective on the tactics and trends of cyber adversaries targeting space technologies.
 
