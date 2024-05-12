@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-   <img src="https://github.com/Falagka/.github/assets/22774077/3855d2df-e67b-42c0-a357-92d2e68dbbc6" alt="Next.js" width="100" height="60" style="border-radius: 10px;""/> &nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/Falagka/.github/assets/22774077/5b3de842-80cf-4840-9edf-f688e600b47a" alt="Next.js" width="100" height="60" style="border-radius: 10px;""/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/1c12f316-196e-479b-9c26-694b4034c0d6" alt="GraphQL" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/35a00cb0-312b-41b5-b553-e035a6de63da" alt="D3.js" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/e6f5d065-c547-45c7-a4fb-af5637d600fb" alt="MySQL" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
@@ -18,6 +18,7 @@
 </p>
 
 The **Falagka** project is designed to help organizations understand, analyze, and defend against cyber threats by learning from hacker attacks. It aggregates data from various sources, identifies patterns, and visualizes the insights to provide a comprehensive view of hacker tactics and trends. The primary goals are to develop adaptive learning models for detecting new threats and to deliver actionable reports that can help companies enhance their cybersecurity posture.
+
 
 
 
