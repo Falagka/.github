@@ -14,7 +14,7 @@
    <img src="https://github.com/Falagka/.github/assets/22774077/e6f5d065-c547-45c7-a4fb-af5637d600fb" alt="MySQL" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/56c8826c-1bb2-48d9-a9be-e823a90354e7" alt="MongoDB" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Falagka/.github/assets/22774077/98db49cb-c238-4295-90dd-b45028ec4b4e" alt="Redis" width="60" height="60"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/Falagka/.github/assets/22774077/5dcf1eb3-d09f-4231-8f3a-0d4c249b9404" alt="sqlaichemy" width="60" height="60"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Falagka/.github/assets/22774077/5dcf1eb3-d09f-4231-8f3a-0d4c249b9404" alt="sqlaichemy" width="80" height="60"/> &nbsp;&nbsp;&nbsp;
 </p>
 
 The **Falagka** project is designed to help organizations understand, analyze, and defend against cyber threats by learning from hacker attacks. It aggregates data from various sources, identifies patterns, and visualizes the insights to provide a comprehensive view of hacker tactics and trends. The primary goals are to develop adaptive learning models for detecting new threats and to deliver actionable reports that can help companies enhance their cybersecurity posture.
