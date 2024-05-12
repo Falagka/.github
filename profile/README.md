@@ -15,7 +15,7 @@
    <img src="https://github.com/Falagka/.github/assets/22774077/56c8826c-1bb2-48d9-a9be-e823a90354e7" alt="MongoDB" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Falagka/.github/assets/22774077/98db49cb-c238-4295-90dd-b45028ec4b4e" alt="Redis" width="60" height="60"/> &nbsp;&nbsp;&nbsp;
     <img src="https://github.com/Falagka/.github/assets/22774077/8658f4be-0717-4b39-b8af-0364e252cbc9" alt="sqlaichemy" width="80" height="60"/> &nbsp;&nbsp;&nbsp;
-</p
+</p>
 
    <p align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,graphql,typescript,html,css,tailwind" /><br
