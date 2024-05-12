@@ -1,7 +1,7 @@
 <p align="center">
    <img src="https://github.com/Falagka/.github/assets/22774077/9b20b836-f768-4001-8c77-4209109e98c6" alt="Python" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/bde02e21-59fd-4044-aba0-8f79454620ba" alt="Flask" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
-   <img src="https://github.com/Falagka/.github/assets/22774077/fa7ae49c-e0b7-413c-ac52-7cc4a5465b7c" alt="Celery" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/Falagka/.github/assets/22774077/5f276c9b-f96a-4503-bf18-54afc76e7b84" alt="Celery" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/6d41a65b-bc5a-48d0-a3ae-32b49174244b" alt="Ariadne" width="120" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/2c49a6f7-2a45-4429-acde-a6b330fcffc2" alt="TensorFlow" width="80" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/8b41d329-b242-48db-9e41-dbbef403b3ea" alt="Scikit Learn" width="80" height="60"/> &nbsp;&nbsp;&nbsp;
