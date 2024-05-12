@@ -2,7 +2,7 @@
    <img src="https://skillicons.dev/icons?i=nextjs,graphql,typescript,html,css,tailwind" /><br>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,flask,tensorflow,scikitlearn,mysql,mongodb,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,flask,tensorflow,scikitlearn,mysql,mongodb,redis,docker" /><br>
 </p>
 <br>
 
