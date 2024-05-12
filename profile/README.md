@@ -4,7 +4,7 @@
    <img src="https://github.com/Falagka/.github/assets/22774077/abe3dd81-b9f9-498b-a9c8-ba16806de8c9" alt="Celery" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/6d41a65b-bc5a-48d0-a3ae-32b49174244b" alt="Ariadne" width="120" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/209c1c9d-7921-45fc-bd1f-9767e676e9c6" alt="TensorFlow" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
-   <img src="https://github.com/Falagka/.github/assets/22774077/5e19ee27-7b3f-4db8-b013-422f5249a70f" alt="Scikit Learn" width="60" height="60"/> &nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/Falagka/.github/assets/22774077/5e19ee27-7b3f-4db8-b013-422f5249a70f" alt="Scikit Learn" width="80" height="60"/> &nbsp;&nbsp;&nbsp;
 
 </p>
 <p align="center">
