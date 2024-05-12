@@ -19,7 +19,7 @@
 
 The **Falagka** project is designed to help organizations understand, analyze, and defend against cyber threats by learning from hacker attacks. It aggregates data from various sources, identifies patterns, and visualizes the insights to provide a comprehensive view of hacker tactics and trends. The primary goals are to develop adaptive learning models for detecting new threats and to deliver actionable reports that can help companies enhance their cybersecurity posture.
 
-![image](https://github.com/Falagka/.github/assets/22774077/a5edbd43-e382-4f00-8a47-7edceb1678a3)
+
 
 
 
