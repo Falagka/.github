@@ -1,4 +1,4 @@
-![mysql-color](https://github.com/Falagka/.github/assets/22774077/3c2f8adc-8be1-46d6-9dad-7b0e8341173c)<p align="center">
+<p align="center">
    <img src="https://github.com/Falagka/.github/assets/22774077/9b20b836-f768-4001-8c77-4209109e98c6" alt="Python" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/bde02e21-59fd-4044-aba0-8f79454620ba" alt="Flask" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
    <img src="https://github.com/Falagka/.github/assets/22774077/abe3dd81-b9f9-498b-a9c8-ba16806de8c9" alt="Celery" width="60" height="60" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp;
