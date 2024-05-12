@@ -5,7 +5,7 @@
     <img src="https://skillicons.dev/icons?i=python,r,flask,tensorflow,scikitlearn,mysql,mongodb,redis" /><br>
 </p>
 <br>
-The **Falagka** project is specifically engineered to support space industry organizations in comprehending, analyzing, and safeguarding against sophisticated cyber threats that are unique to their sector. By learning directly from hacker attacks, our platform integrates data from a wide array of space industry-specific sources, identifies emerging patterns, and visualizes insights to offer a detailed perspective on the tactics and trends of cyber adversaries targeting space technologies.
+The **Falagka** project is specifically engineered to support space industry organizations in comprehending, analyzing, and safeguarding against sophisticated cyber threats that are unique to their sector. By learning directly from hacker attacks, our platform integrates data from a wide array of space industry-specific sources, identifies emerging patterns, and visualizes insights to offer a detailed perspective on the tactics and trends of cyber adversaries targeting space technologies.<br>
 
 **Our primary objectives are to:**<br>
 i) Develop Adaptive Learning Models: Craft advanced machine learning algorithms capable of detecting new and evolving threats specifically engineered against space sector infrastructure, including satellite communications and ground station networks.<br>
