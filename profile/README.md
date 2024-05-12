@@ -23,5 +23,5 @@ The **Falagka** project is designed to help organizations understand, analyze, a
 
 
 
-![celery](https://github.com/Falagka/.github/assets/22774077/fa7ae49c-e0b7-413c-ac52-7cc4a5465b7c)
+
 
